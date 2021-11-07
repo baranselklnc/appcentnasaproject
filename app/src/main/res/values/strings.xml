@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Appcent Nasa Project</string>
+
+
+    <string name="c0">ALL</string>
+    <string name="c1">FHAZ</string>
+    <string name="c2">RHAZ</string>
+    <string name="c3">MAST</string>
+    <string name="c4">CHEMCAM</string>
+    <string name="c5">MAHLI</string>
+    <string name="c6">MARDI</string>
+    <string name="c7">NAVCAM</string>
+    <string name="c8">PANCAM</string>
+    <string name="c9">MINITES</string>
+    <string name="c10">ENTRY</string>
+
+
+
+</resources>
