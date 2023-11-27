@@ -1,1 +1,2 @@
 # Appcentnasaproject
+Appcent firmasındaki proje kapsamında geliştime dili olarak Kotlin kullanıldı. OOP, SOLİD prensiplerine bağlı kalınmıştır.Rest Api client olarak Retrofit/Okhttp kullanılmıştır.  Mvmm mimari tasarımı baz alınarak oluşturulmuşturAsync işlemler için Arch Component'lardan LiveData/ ViewModel , RxJava, Coroutines gibi tool'lar kullanılmıştır.Güncel, tercih edilen ve açık kaynak kodlu kütüphanelerin kullanılması şartı yerine getirilmiştir.
